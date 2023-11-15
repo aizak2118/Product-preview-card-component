@@ -150,6 +150,7 @@ img {
   background-color: var(--Deep-Aquamarine);
   height: 48px;
   font-size: 1.4rem;
+  font-weight: bold;
   border-radius: 8px;
   color: var(--White);
   display: inline-flex;
